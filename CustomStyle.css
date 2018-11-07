@@ -1,0 +1,24 @@
+.jumbotron {
+	background-color: orchid;
+	margin-bottom: 50px;
+	background-image: url(images/key.jpg);
+	background-size: cover;
+	
+}
+
+body {
+	
+	background-color: black;
+	color: white;
+}
+
+
+
+
+footer{
+	margin-top: 50px;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: lightgray;
+}
+
