@@ -16,17 +16,22 @@ body {
 
 
 footer{
-	margin-top: 50px;
+	margin-top: 1px;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
 	background-color: lightgray;
 }
 
 .form{
+	background-image: url(images/key.jpg);
+	color: white;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
 	margin-top: 80px;
 	margin-bottom: 50px;
+	background-size: cover;
 }
 
 .map{
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 }
