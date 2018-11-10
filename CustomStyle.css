@@ -1,13 +1,13 @@
 .jumbotron {
 	background-color: orchid;
 	margin-bottom: 50px;
-	background-image: url(images/key.jpg);
+	background-image: url(images/26.jpg);
 	background-size: cover;
+	color: white;
 	
 }
 
 body {
-	
 	background-color: black;
 	color: white;
 }
@@ -23,15 +23,65 @@ footer{
 }
 
 .form{
-	background-image: url(images/key.jpg);
 	color: white;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-	margin-top: 80px;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	margin-top: 20px;
 	margin-bottom: 50px;
 	background-size: cover;
 }
 
 .map{
 	margin-bottom: 0px;
+	padding-top: 4rem;
 }
+
+
+.service{
+	margin-top: 0px;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	text-align: center;
+	color: white;
+}
+
+.whatsaap{
+ height: 200px;
+ width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
